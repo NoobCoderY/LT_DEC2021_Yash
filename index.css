@@ -811,7 +811,7 @@ select:focus{
             margin:auto;
     }
     .obtn{
-        margin-bottom: 10px;
+        margin-bottom: 7px;
     }
 
 }
@@ -833,7 +833,7 @@ select:focus{
         height: 40px;
         padding-left: 10px;
         font-size: 20px;
-        margin-right: 48px;
+        margin-right: 40px;
         border: 1px solid teal;
     
     
